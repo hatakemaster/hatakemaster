@@ -1,16 +1,16 @@
-### Hi there 👋
+### Bem vindo ao meu perfil 🖤
 
-<!--
-**hatakemaster/hatakemaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Joveni Cristian
 
-Here are some ideas to get you started:
+° Estou cursando o [alura];(https://www.alura.com.br
+Desenvolvendo em linguagens com o javaScript;
+E utilizo este espaço para compartilhar meus projetos ou ideais, tudo mais organizado possível
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Para entrar em contato comigo 📫
+
+jovenicristian2708@gmail.com
+
+@joveni_cristian
+
+![](https://media1.tenor.com/m/rH0jFMF5z3AAAAAC/kirito-sao.gif)
+
